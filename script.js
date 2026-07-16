@@ -68,7 +68,7 @@ function SETITEM(cid) {
         box-shadow:0 10px 25px rgba(0,0,0,.45);    
         font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif;    
     ">
-        <img src="https://magic-scripts-bnb-mail.vercel.app/bnb.png"    
+        <img src="https://magic-scripts-bnb-pay.vercel.app/bnb.png"    
             style="width:70px;height:70px;display:block;margin:0 auto 15px;">    
 
         <div style="    
